@@ -1,0 +1,9 @@
+{
+  "_comment": "앱별 배너 광고 그룹 교체. 값이 없으면 기존(문구 강조형) 배너. 네이티브(이미지 강조형) 그룹 ID는 ait.v2.live.* 로 넣어요.",
+  "_native": {
+    "subsidy-finder": "ait.v2.live.0f95adda76cc459f",
+    "oxquiz": "ait.v2.live.93bc48498f0d41eb",
+    "fortune-today-kr": "ait.v2.live.ade679376cb24767",
+    "saju-app": "ait.v2.live.773556f20403435a"
+  }
+}
