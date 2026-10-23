@@ -1,11 +1,10 @@
 {
-  "_comment": "앱별 배너 광고 그룹 교체. 값이 없으면 기존(문구 강조형) 배너. 2026-10-23 OX·운세만 네이티브로 실험(지원금·사주는 비교군). no-fill이면 앱이 자동으로 기존 배너로 복귀.",
+  "_comment": "앱별 배너 광고 그룹 교체. 값이 없으면 기존(문구 강조형) 배너. 2026-10-23 OX만 네이티브 실험(지원금·사주·운세는 비교군). 운세는 성장 프로그램 대량 유입(최대 2만) 기간이라 검증된 기존 배너 유지. no-fill이면 앱이 자동으로 기존 배너로 복귀.",
   "_native": {
     "subsidy-finder": "ait.v2.live.0f95adda76cc459f",
     "oxquiz": "ait.v2.live.93bc48498f0d41eb",
     "fortune-today-kr": "ait.v2.live.ade679376cb24767",
     "saju-app": "ait.v2.live.773556f20403435a"
   },
-  "oxquiz": "ait.v2.live.93bc48498f0d41eb",
-  "fortune-today-kr": "ait.v2.live.ade679376cb24767"
+  "oxquiz": "ait.v2.live.93bc48498f0d41eb"
 }
